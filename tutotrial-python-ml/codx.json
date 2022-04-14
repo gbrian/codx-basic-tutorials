@@ -1,13 +1,13 @@
 {
     "name": "Tutorial python/ml (basic)",
     "description": "Basic machine learning with python tutorial",
-    "tags" ["ml", "python", "basic", "free"],
+    "tags": ["ml", "python", "basic", "free"],
     "author": "coder5",
     "repository": "https://github.com/gbrian/codx-basic-tutorials",
     "apps": {
         "notebooks": {}
     },
-    "tabs" [
+    "tabs": [
         "http://localhost:8889/tree",
         "https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html"
     ]
