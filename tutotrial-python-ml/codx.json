@@ -7,8 +7,9 @@
     "apps": {
         "notebooks": {}
     },
+    "url": "http://localhost:9080/?folder=/home/codx/codx-basic-tutorials/tutotrial-python-ml/",
     "tabs": [
-        "http://localhost:8889/tree",
+        "http://localhost:8888/tree",
         "https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html"
     ]
 }
