@@ -1,0 +1,20 @@
+{
+    "name": "Web scraping with python",
+    "description": "Many companies are looking for: python data web scraping.",
+    "tags": ["scraping", "python", "data", "free"],
+    "author": "coder5",
+    "repository": "https://github.com/gbrian/codx-basic-tutorials",
+    "apps": {
+        "python": {},
+        "notebooks": {}
+    },
+    "url": "http://localhost:9080/?folder=/home/codx/codx-basic-tutorials/tutotrial-python-ml/",
+    "tabs": [
+        "https://wodx.meetnav.com/offers/python/data-web-scrapping",
+        "https://docs.scrapy.org/en/latest/intro/tutorial.html",
+        "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a"
+    ],
+    "scripts": {
+        "setup": "bash setup.sh"
+    }
+}
